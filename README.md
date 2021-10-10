@@ -9,3 +9,5 @@ python inference.py --config {config file path} {checkpoint file path} --show --
 # training
 python train.py {config file path} --work-dir {the path to save checkpoints, training log} --load-from [optianal] {for finetune or load pretrain model}
 
+# more details can follow the document of mmsegmentation
+https://mmsegmentation.readthedocs.io/en/latest/
