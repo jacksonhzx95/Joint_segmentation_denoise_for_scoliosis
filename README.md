@@ -1,5 +1,5 @@
 # Joint_segmentation_denoise_for_scoiliosis
-This is the official implementation of paper: Joint Spine Segmentation and Noise Removal from Ultrasound Volume Projection Images with Selective Feature Sharing
+This is the implementation of paper: Z. Huang et al., "Joint Spine Segmentation and Noise Removal From Ultrasound Volume Projection Images With Selective Feature Sharing," in IEEE Transactions on Medical Imaging, vol. 41, no. 7, pp. 1610-1624, July 2022, doi: 10.1109/TMI.2022.3143953.
 # Requirements
 mmcv python3.8 pytorch1.7
 # Enviroment 
